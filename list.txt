@@ -1,0 +1,19 @@
+1 Contact Form (Spam Blocking)
+2 Internal Messaging System
+3 User Management
+4 CMS
+5 Payment Gateway (PayPal)
+6 Payment Gateway (WorldPay)
+7 Online Shop
+8 Category Mangament
+9 Members Area (sign up etc)
+10 News
+11 Email Handling (inbound / transactional / mass)
+12 Calendar / Booking System
+13 API Handling
+14 Document Uploading
+15 Video Streaming
+16 Events Management
+17 Menu Management
+18 Pagination
+19 User Comments / Ratings
